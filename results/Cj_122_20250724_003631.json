@@ -1,0 +1,15 @@
+{
+    "name": "Cj",
+    "id": "122",
+    "scores": {
+        "Excel": 5,
+        "General Knowledge": 2,
+        "Python": 0,
+        "SQL": 5
+    },
+    "total_score": 12,
+    "average": 3.0,
+    "grade": "F",
+    "remark": "Fail",
+    "timestamp": "2025-07-24 00:36:31"
+}
